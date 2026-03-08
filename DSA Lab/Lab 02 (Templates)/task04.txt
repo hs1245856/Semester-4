@@ -1,0 +1,7 @@
+If you create Calculator<string>, in Task1 what problem might occur and why?
+Test , run and write which function causes problem , which functions will run ok.
+
+T add()  working
+T subtract()  not working
+T Multiply()  not working
+T divide()    not working
